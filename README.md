@@ -1,68 +1,77 @@
 <div align="center">
 
-# Hi there, I'm Raj! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Raj
 
-### 🇮🇳 A Passionate Developer from India
+### Developer based in India
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=I+am+a+Developer;I+Love+Coding;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Python+and+Web+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
 </a>
 
----
-
-### 🧐 About Me
-
-- 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **Advanced Python & React**
-- 💬 Ask me about **HTML, CSS, Python**
-- 📫 How to reach me: **primerajjj@gmail.com**
-
----
-
-###  Tech Stack & Tools
+<br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <br>
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare">
+  <a href="https://instagram.com/_primeraj" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:primerajjj@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Primeraj&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Primeraj&theme=aura_dark&hide_border=true&layout=compact" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Primeraj&theme=aura_dark&hide_border=true" alt="streak stats" />
 </div>
 
 ---
 
-### 🤝 Connect with Me
+### About Me
 
-<p align="center">
-<a href="https://instagram.com/_primeraj" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="_primeraj" /></a>
-<a href="mailto:primerajjj@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="primerajjj@gmail.com" /></a>
-</p>
+> I am a passionate developer focused on building efficient and clean code. I enjoy solving complex problems and learning new technologies.
+
+- **Name:** Raj
+- **Location:** India
+- **Focus:** Web Development & Python
+- **Contact:** primerajjj@gmail.com
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Technical Skills
 
-<br>
+<div align="center">
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Primeraj&icon=5&color=0" alt="Visitor Count">
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<br/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+
+</div>
+
+---
+
+### GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Primeraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="Raj's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Primeraj&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Primeraj&theme=tokyonight&hide_border=true" alt="Commit Streak" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/><br/>
+
+<img src="https://visitcount.itsvg.in/api?id=Primeraj&icon=0&color=1" alt="Visitor Count" />
 
 </div>
