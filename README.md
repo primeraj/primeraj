@@ -34,8 +34,6 @@
 
 ---
 
-### Technical Skills
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -69,9 +67,5 @@
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<br/><br/>
-
-<img src="https://visitcount.itsvg.in/api?id=Primeraj&icon=0&color=1" alt="Visitor Count" />
 
 </div>
